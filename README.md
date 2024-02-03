@@ -15,13 +15,13 @@ Welcome to CodeExplorer, a journey through the realms of coding! This repository
 Explore the Repository:
 <br>
 
-**📱 App Development:** Android, iOS, cross-platform apps.
+**📱 App Development:** Cross-platform apps.
 <br>
-**🌐 Web Development:** HTML, CSS, JavaScript, React, Node.js, Django.
+**🌐 Web Development:** HTML, CSS, JavaScript, React, Express, Node.js, MongoDB.
 <br>
 **🤖 AI/ML:** Python, TensorFlow, PyTorch, scikit-learn
 <br>
-**🧠 DSA:** Java, Python, C++.<br>
+**🧠 DSA:** Java<br>
 <br>
 <br>
 Feel free to dive into individual folders to explore each project's source code, documentation, and learnings. Whether you're a fellow learner, experienced developer, or enthusiast, your feedback and contributions are always welcome!
