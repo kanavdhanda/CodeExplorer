@@ -5,10 +5,10 @@ Diverse coding projects journey—web, app, AI/ML, DSA. Explore, learn, contribu
 Welcome to CodeExplorer, a journey through the realms of coding! This repository serves as my coding playground, where I embark on projects spanning various fields and technologies. Join me on this adventure as I delve into the exciting worlds of:
 <br>
 <br>
-1.**App Development:** Crafting intuitive and user-friendly applications for both mobile and desktop platforms.<br>
-2.**Web Development:** From dynamic front-end designs using the latest frameworks to robust back-end solutions, witness the evolution of web development.<br>
-3.**AI/ML:** Unleashing the power of artificial intelligence and machine learning to solve real-world problems and create intelligent systems.<br>
-4.**Data Structures and Algorithms (DSA):** Building a solid foundation in DSA to tackle complex coding challenges with efficiency.<br>
+1. **App Development:** Crafting intuitive and user-friendly applications for both mobile and desktop platforms.<br>
+2. **Web Development:** From dynamic front-end designs using the latest frameworks to robust back-end solutions, witness the evolution of web development.<br>
+3. **AI/ML:** Unleashing the power of artificial intelligence and machine learning to solve real-world problems and create intelligent systems.<br>
+4. **Data Structures and Algorithms (DSA):** Building a solid foundation in DSA to tackle complex coding challenges with efficiency.<br>
 <br>Explore the Repository:
 
 **📱 App Development:** Android, iOS, cross-platform apps.
