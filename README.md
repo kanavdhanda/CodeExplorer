@@ -1,6 +1,4 @@
 # CodeExplorer
-Diverse coding projects journey—web, app, AI/ML, DSA. Explore, learn, contribute
-
 
 Welcome to CodeExplorer, a journey through the realms of coding! This repository serves as my coding playground, where I embark on projects spanning various fields and technologies. Join me on this adventure as I delve into the exciting worlds of:
 <br>
