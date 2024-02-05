@@ -15,9 +15,9 @@ Welcome to CodeExplorer, a journey through the realms of coding! This repository
 Explore the Repository:
 <br>
 
-**📱 App Development:** Cross-platform apps.
+**📱 App Development:** Flutter.
 <br>
-**🌐 Web Development:** HTML, CSS, JavaScript, React, Express, Node.js, MongoDB.
+**🌐 Web Development:** HTML, CSS, JavaScript, React, Node.js, MongoDb.
 <br>
 **🤖 AI/ML:** Python, TensorFlow, PyTorch, scikit-learn
 <br>
@@ -30,5 +30,5 @@ Let's code, explore, and learn together!
 <br>
 <br>
 <br>
-
+<hr>
 Feel free to customize it to better reflect your personality and the specifics of your projects. Good luck with your coding journey!
