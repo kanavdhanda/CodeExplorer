@@ -1,0 +1,98 @@
+<html>
+
+<head>
+    <title>example.com</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        .container {
+            font-family: sans-serif;
+            width: 600px;
+            padding: 2em;
+            background-color: #ffffff;
+            margin: 5em auto;
+            border-radius: 0.5em;
+            box-shadow: 2px 3px 7px 2px rgba(0, 0, 0, 0.02);
+        }
+
+        .card-images {
+            width: 100%;
+            height: 60%;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .allcard {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            grid-row-end: auto;
+            gap: 20px;
+            padding: 20px;
+            overflow-y: auto;
+            width: 80%;
+        }
+
+        .cards {
+            display: flex;
+            flex-direction: column;
+            background-color: blanchedalmond;
+            width: 100%;
+            height: 300px;
+            overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="container" id="one">
+        <h1>Example Domain</h1>
+        <p>This domain is for use in illustrative examples in documents. You may use this
+            domain in literature without prior coordination or asking for permission.</p>
+        <p><a href="https://www.iana.org/domains/example">More information...</a></p>
+    </div>
+    <br></br><br></br>
+    <div class="allcard">
+        <div class="cards">
+            <img class="card-images" src="./ccs_logo.png" alt="...">
+            <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card's content.
+                </p>
+            </div>
+        </div>
+        <div class="cards">
+            <img class="card-images" src="./ccs_logo.png" alt="...">
+            <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card's content.
+                </p>
+            </div>
+
+        </div>
+        <div class="cards">
+            <img class="card-images" src="./ccs_logo.png" alt="...">
+            <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card's content.
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+
+</body>
+<script>
+    var a = document.getElementById("one");
+    const myTimeout = setTimeout(show, 3000);
+    function show() {
+        console.log("div id one");
+        console.log(a.innerHTML);
+    }
+</script>
+
+</html>
